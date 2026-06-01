@@ -14,35 +14,11 @@ Je suis animée par la curiosité, la rigueur et le goût du défi — toujours 
 
 > 🎯 **Disponible pour un stage d'un mois à partir de juillet 2025** en IA, développement logiciel ou data engineering.
 
----
-
-<div align="center">
-
-## 🐍 Mes Contributions 🐍
-
-![Snake animation](https://github.com/HajarOularbi/HajarOularbi/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Stats 🏆
-
-![Stats](https://github-readme-stats.vercel.app/api?username=HajarOularbi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HajarOularbi&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HajarOularbi&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
 ## 🛠️ Compétences 🛠️
 
-</div>
 
 **Langages de programmation**
 
@@ -78,6 +54,7 @@ Je suis animée par la curiosité, la rigueur et le goût du défi — toujours 
 ![Descente de gradient](https://img.shields.io/badge/Descente%20de%20gradient-FF4B4B?style=for-the-badge)
 ![Traitement d'image](https://img.shields.io/badge/Traitement%20d'image-00BCD4?style=for-the-badge)
 
+</div>
 ---
 
 <div align="center">
@@ -86,32 +63,32 @@ Je suis animée par la curiosité, la rigueur et le goût du défi — toujours 
 
 </div>
 
-### 🔵 Système d'Information Policière — DGSN
+###  Système d'Information Policière — DGSN
 > Plateforme web sécurisée pour agents de police : gestion de données criminelles et textes juridiques.
 
-- 🔍 Reconnaissance faciale par **PCA** pour identification dans la base de données
-- 🔐 Gestion sécurisée des accès utilisateurs
+-  Reconnaissance faciale par **PCA** pour identification dans la base de données
+-  Gestion sécurisée des accès utilisateurs
 - `Python` · `MySQL` · `HTML/CSS`
 
 ---
 
-### 🌿 Système d'Irrigation Intelligent — AQUATERRA
+### Système d'Irrigation Intelligent — AQUATERRA
 > Système IA analysant en **temps réel** les besoins en eau des plantes grâce à des capteurs IoT.
 
-- 🤖 Modèle ML avec **Scikit-learn** pour la prédiction des besoins hydriques
-- 📡 Irrigation automatisée et économe en eau
+-  Modèle ML avec **Scikit-learn** pour la prédiction des besoins hydriques
+-  Irrigation automatisée et économe en eau
 - `Python` · `Scikit-learn`
 
 ---
 
-### 📜 Plateforme de Certification en Langages — Stage
+### Plateforme de Certification en Langages — Stage
 > Site web d'inscription, de passage d'examens et d'obtention de certifications en programmation.
 
 - `HTML/CSS` · `JavaScript` · `MySQL`
 
 ---
 
-### 👥 Module de Gestion des Ressources Humaines
+### Module de Gestion des Ressources Humaines
 > Calcul automatisé des salaires nets : ancienneté, primes et charges sociales.
 
 - `Java`
@@ -120,7 +97,7 @@ Je suis animée par la curiosité, la rigueur et le goût du défi — toujours 
 
 ---
 
-### 🐳 Conteneurisation d'Application — DevOps
+### Conteneurisation d'Application — DevOps
 > Déploiement d'une application web conteneurisée sur environnement Linux.
 
 - `Docker` · `Linux`
