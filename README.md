@@ -1,40 +1,60 @@
 <h1 align="center">Hi 👋, I'm Hajar Oularbi</h1>
-<h3 align="center">Computer Science Engineering Student @ ENSA Safi 🇲🇦</h3>
+<h3 align="center">🎓 Élève Ingénieure en Informatique & IA — ENSA Safi, Maroc</h3>
 
 <p align="center">
-  Passionate about <strong>Machine Learning</strong>, <strong>Software Development</strong> and building impactful projects.
+  Passionnée par le <strong>Machine Learning</strong>, le <strong>développement logiciel</strong>
+  et la construction de projets à impact réel.
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
+## 🚀 Projets
 
-| Projet | Description | Tech |
-|--------|-------------|------|
-| [ApplicationMagasin](https://github.com/HajarOularbi/HajarOularbi-MarouaOufik) | Application de gestion de magasin | - |
-| [GestionRH Java](https://github.com/HajarOularbi/Projet_GestionRH_JAVA) | Système de gestion des ressources humaines | Java |
-| [OOP TP](https://github.com/HajarOularbi/Hajar_Oularbi) | Travaux pratiques en POO | Java |
+### 🔵 [Système d'Information Policière — DGSN](https://github.com/HajarOularbi)
+> Plateforme web sécurisée pour agents de police avec gestion de données criminelles.
+- 🔍 Module de **reconnaissance faciale** via **PCA**
+- 🛠️ `Python` `MySQL` `HTML/CSS`
+
+### 🌿 [Système d'Irrigation Intelligent — AQUATERRA](https://github.com/HajarOularbi)
+> Système IA d'irrigation analysant en temps réel les besoins en eau des plantes.
+- 🤖 Modèle ML entraîné avec **Scikit-learn**
+- 🛠️ `Python` `Scikit-learn`
+
+### 📜 [Plateforme de Certification en Langages](https://github.com/HajarOularbi)
+> Site web d'inscription et d'obtention de certifications en programmation.
+- 🛠️ `HTML/CSS` `JavaScript` `MySQL`
+
+### 👥 [Gestion des Ressources Humaines](https://github.com/HajarOularbi/Projet_GestionRH_JAVA)
+> Calcul automatisé des salaires nets avec ancienneté, primes et charges sociales.
+- 🛠️ `Java`
+
+### 🐳 [Conteneurisation d'Application](https://github.com/HajarOularbi)
+> Déploiement d'une application web conteneurisée sous Linux.
+- 🛠️ `Docker` `Linux`
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HajarOularbi&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajarOularbi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HajarOularbi&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajarOularbi&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajar-oula)
+## 🎯 Centres d'intérêt en IA & Dev
