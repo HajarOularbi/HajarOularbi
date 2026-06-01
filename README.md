@@ -129,9 +129,7 @@ Je suis animée par la curiosité, la rigueur et le goût du défi — toujours 
 
 ## 🔗 Me contacter 🔗
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hajar--oula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-hajar-oularbi-a1b517258
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hajar--oularbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hajar-oularbi](https://www.linkedin.com/in/hajar-oularbi-a1b517258/))
 [![Gmail](https://img.shields.io/badge/Gmail-hajaroula12345@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajaroula12345@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-HajarOularbi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HajarOularbi)
 
